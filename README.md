@@ -1,4 +1,12 @@
+*https://artigo-cassio.netlify.app/
+
+
+
+
+
+
 # Site do Artigo "Explorações Científicas e Filosóficas no Filme Interestelar"
+
 
 Este projeto consiste em um site responsivo para publicação do artigo "Explorações Científicas e Filosóficas no Filme Interestelar" de Cássio Simas dos Santos.
 
